@@ -2,7 +2,7 @@
 # About HK100 · Home
 ## Live Application URL
 
-https://justinsochi.github.io/HK100Analysis/
+https://konabay2021.github.io/HK100Analysis/
 
 ### HK100 · Home is a non-profit website created by a group of young people who love sports science. It was founded in July 2020
 
